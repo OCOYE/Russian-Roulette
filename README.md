@@ -16,7 +16,7 @@
 # CONCLUSION🌟
  The game is working fine and is a cool game to play
 # WEBSITE HERE🔥
-[-> Click Here <-](ocoye.github.io/Russian-Roulette/)
+[-> Click Here <-]([ocoye.github.io/Russian-Roulette/])
 
 ###### ⚠️[MIT License]⚠️
 ###### ***Thanks for Read🙏***
