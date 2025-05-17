@@ -1,2 +1,22 @@
-# Russian Roulette
-A Russian Roulette made in Python
+
+# **[ Russian Roulette ]✨**
+
+<!-- Video, Gif or Img here!! -->
+<img src="../Russian-Roulette/Russian Roulette/DOWNLOAD.png">
+<!-- <video src="If is a Video." autoplay loop muted> -->
+
+## **WHAT IS THIS?👀**
+ A Roulette Russian game
+## **HOW TO USE?🤷‍♂️**
+  You may download the setup or portable for play the game!
+## STATUS😉
+ Program | Finished?
+ ---       | ---
+ Game<img src="https://cdn-icons-png.flaticon.com/512/7308/7308168.png" width="28px">  | [✅]
+# CONCLUSION🌟
+ The game is working fine and is a cool game to play
+# WEBSITE HERE🔥
+[-> Click Here <-](ocoye.github.io/Russian-Roulette/)
+
+###### ⚠️[MIT License]⚠️
+###### ***Thanks for Read🙏***
