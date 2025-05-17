@@ -2,7 +2,6 @@
 # **[ Russian Roulette ]✨**
 
 <!-- Video, Gif or Img here!! -->
-<img src="../Russian-Roulette/Russian Roulette/DOWNLOAD.png">
 <!-- <video src="If is a Video." autoplay loop muted> -->
 
 ## **WHAT IS THIS?👀**
